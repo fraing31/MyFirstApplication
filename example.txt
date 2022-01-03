@@ -1,0 +1,17 @@
+
+ls - all carpets
+cd + name file - go to file
+mkdir + file - create a carpet
+touch - create a new file 
+chmod -R 777 - when you have a error
+pwd - Indicate the ubicate
+cd.. go out 
+rm + name file - remove a file
+
+Command of Git
+1. git init - Start in a carpet as a local repository
+2. git add - NameFile git add.
+3. git commit -m "message to the commit
+4. git remote add url-of-github
+5. git push -u origin master git push -u origin main
+
